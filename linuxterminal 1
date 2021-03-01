@@ -1,0 +1,29 @@
+
+Utilisateur@DESKTOP-J1U4TO6 MINGW64 ~
+$ ls
+'3D Objects'/         ntuser.dat.LOG1
+ AppData/             ntuser.dat.LOG2
+'Application Data'@   NTUSER.DAT{55da4482-79de-11eb-812a-9839768467aa}.TM.blf
+ Contacts/            NTUSER.DAT{55da4482-79de-11eb-812a-9839768467aa}.TMContainer00000000000000000001.regtrans-ms
+ Cookies@             NTUSER.DAT{55da4482-79de-11eb-812a-9839768467aa}.TMContainer00000000000000000002.regtrans-ms
+ Desktop/             ntuser.ini
+ Documents/           OneDrive/
+ Downloads/           Pictures/
+ Favorites/           Recent@
+ Links/              'Saved Games'/
+'Local Settings'@     Searches/
+'Menu Démarrer'@      SendTo@
+'Mes documents'@      Videos/
+ Modèles@            "Voisinage d'impression"@
+ Music/              'Voisinage réseau'@
+ NTUSER.DAT
+
+Utilisateur@DESKTOP-J1U4TO6 MINGW64 ~
+$ pwd
+/c/Users/Utilisateur
+
+Utilisateur@DESKTOP-J1U4TO6 MINGW64 ~
+$ cd ..
+
+Utilisateur@DESKTOP-J1U4TO6 MINGW64 /c/Users
+$
